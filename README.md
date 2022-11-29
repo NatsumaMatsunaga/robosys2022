@@ -5,8 +5,10 @@
 
 ## 実行方法
 
-インストール
+* インストール
+
 $ git clone https://github.com/[NatsumaMatsunaga]/[robosys2022].git
+
 cd robosys2022
 
 * 実行権限の付与
