@@ -9,7 +9,7 @@
 
 $ git clone https://github.com/[NatsumaMatsunaga]/[robosys2022].git
 
-*　ディレクトリの移動
+*ディレクトリの移動
 
 cd robosys2022
 
