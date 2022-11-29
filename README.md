@@ -1,6 +1,7 @@
 # robosys2022
+ * このリポジトリには
 # plusコマンド
- * 標準入力から読み込んだ数字を足す plusコマンドについて記載されています
+ * 標準入力から読み込んだ数字を足す
 
 ![test](https://github.com/NatsumaMatsunaga/robosys2022/actions/workflows/test.yml/badge.svg)
 
