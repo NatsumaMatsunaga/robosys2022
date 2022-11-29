@@ -2,9 +2,8 @@
 ![test](https://github.com/NatsumaMatsunaga/robosys2022/actions/workflows/test.yml/badge.svg)
 
 ## 実行方法
-リポジトリを複製する
+インストール
 * $ git clone https://github.com/[NatsumaMatsunaga]/[robosys2022].git
-* 
 
   * このソフトウェアパッケージは，3条項BSDライセンスの下，再頒布および使用が許可されます．
   * このパッケージは，aaa由来のコード（© 2022 Hoge Fuge）を利用しています．
