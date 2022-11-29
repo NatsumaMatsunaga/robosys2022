@@ -1,5 +1,5 @@
 # robosys2022
- * LICENSE,README.md,plus,test.bashが含まれています。
+ * このライセンスにはLICENSE,README.md,plus,test.bashが含まれています。
 # plusコマンド
  * 標準入力から読み込んだ数字を足す
 
@@ -11,16 +11,6 @@
 
   $ git clone https://github.com/[NatsumaMatsunaga]/[robosys2022].git
 
-* ディレクトリの移動
-
-  $ cd robosys2022
-
-* 実行権限の付与
-
-  $ ls -l a.out
-
-  $ chmod +x plus
-
 * 実行例
 
   $ seq 10 | ./plus
@@ -31,12 +21,11 @@
  * テスト済み: Python 3.7~3.10
  
  ## テスト環境
- * Ubuntu
+ * Ubuntu 20.04.5 LTS
  
  ## 利用したライブラリ及びコードについて
 
  * このソフトウェアパッケージは，3条項BSDライセンスの下，再頒布および使用が許可されます．
-  * このパッケージは，robosys2022由来のコード（© 2022 Ryuichi Ueda）を利用しています．
   * このパッケージのコードは，下記のスライド（CC-BY-SA 4.0 by Ryuichi Ueda）のものを，本人の許可を得て自身の著作としたものです．
   * [ryuichiueda/my_slides robosys_2022](https://github.com/ryuichiueda/my_slides/tree/master/robosys_2022)
 
