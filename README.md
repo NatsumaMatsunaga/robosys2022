@@ -1,7 +1,8 @@
 # plusコマンド
 ![test](https://github.com/NatsumaMatsunaga/robosys2022/actions/workflows/test.yml/badge.svg)
 
-標準入力から読み込んだ数字を足す。
+##実行方法
+
 
   * このソフトウェアパッケージは，3条項BSDライセンスの下，再頒布および使用が許可されます．
   * このパッケージは，aaa由来のコード（© 2022 Hoge Fuge）を利用しています．
@@ -9,8 +10,7 @@
   * [ryuichiueda/my_slides robosys_2022](https://github.com/ryuichiueda/my_slides/tree/master/robosys_2022)
  
  ## 必要なソフトウェア
- * python
-   * テスト済み: 3.7~3.10
+ * テスト済み: Python 3.7~3.10
  
  ## テスト環境
  * Ubuntu
