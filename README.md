@@ -4,10 +4,10 @@
 標準入力から読み込んだ数字を足す。
 
 ## 実行方法
-*インストール
+インストール
 $ git clone https://github.com/[NatsumaMatsunaga]/[robosys2022].git
 cd robosys2022
-*実行権限の付与
+実行権限の付与
 ls -l a.out
 chmod +x plus
 
