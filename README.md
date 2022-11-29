@@ -1,5 +1,5 @@
 # robosys2022
- * このリポジトリには
+ * LICENSE,README.md,plus,test.bashが含まれています。
 # plusコマンド
  * 標準入力から読み込んだ数字を足す
 
