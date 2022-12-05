@@ -1,5 +1,4 @@
 # robosys2022
- * このライセンスにはLICENSE,README.md,plus,test.bashが含まれています。
 # plusコマンド
  * 標準入力から読み込んだ数字を足す
 
